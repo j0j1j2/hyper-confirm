@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> hyper-confirm is no longer in active maintenance, so it is not recommended to be used and unlikely to work with the latest versions of Hyper. I am not aware of a replacement plugin, but will happily add a link here if someone wants to send one my way.
+
 ![build](https://github.com/zachflower/hyper-confirm/workflows/Node.js%20CI/badge.svg) [![npm](https://img.shields.io/npm/v/hyper-confirm.svg)](https://www.npmjs.com/package/hyper-confirm) [![npm](https://img.shields.io/npm/dt/hyper-confirm.svg)](https://www.npmjs.com/package/hyper-confirm) [![npm](https://img.shields.io/npm/l/hyper-confirm.svg)](https://www.npmjs.com/package/hyper-confirm)
 
 # hyper-confirm
