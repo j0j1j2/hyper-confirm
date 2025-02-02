@@ -1,4 +1,4 @@
-![build](https://github.com/j0j1j2/hyper-confirm/workflows/Node.js%20CI/badge.svg) [![npm](https://img.shields.io/npm/v/hyper-confirm2.svg)](https://www.npmjs.com/package/hyper-confirm2) [![npm](https://img.shields.io/npm/dt/hyper-confirm2.svg)](https://www.npmjs.com/package/hyper-confirm2) [![npm](https://img.shields.io/npm/l/hyper-confirm2.svg)](https://www.npmjs.com/package/hyper-confirm2)
+![build](https://github.com/j0j1j2/hyper-confirm2/workflows/Node.js%20CI/badge.svg) [![npm](https://img.shields.io/npm/v/hyper-confirm2.svg)](https://www.npmjs.com/package/hyper-confirm2) [![npm](https://img.shields.io/npm/dt/hyper-confirm2.svg)](https://www.npmjs.com/package/hyper-confirm2) [![npm](https://img.shields.io/npm/l/hyper-confirm2.svg)](https://www.npmjs.com/package/hyper-confirm2)
 
 # hyper-confirm2
 
