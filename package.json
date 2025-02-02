@@ -1,22 +1,26 @@
 {
-  "name": "hyper-confirm",
+  "name": "hyper-confirm2",
   "version": "1.0.0",
   "description": "Show a confirmation dialog before quitting Hyper",
-  "author": "Zachary Flower <zach@flower.codes>",
+  "author": "Jaeyoung Choi <jaeyoung.choi@docenty.ai>",
   "contributors": [
     {
       "name": "Zachary Flower",
       "email": "zach@flower.codes"
+    },
+    {
+      "name": "Jaeyoung Choi",
+      "email": "jaeyoung.choi2@docenty.ai"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/zachflower/hyper-confirm.git"
+    "url": "git+https://github.com/j0j1j2/hyper-confirm2.git"
   },
   "bugs": {
-    "url": "https://github.com/zachflower/hyper-confirm/issues"
+    "url": "https://github.com/j0j1j2/hyper-confirm2/issues"
   },
-  "homepage": "https://github.com/zachflower/hyper-confirm#readme",
+  "homepage": "https://github.com/j0j1j2/hyper-confirm2#readme",
   "keywords": [
     "hyper.app",
     "hyper",

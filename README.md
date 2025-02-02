@@ -1,9 +1,6 @@
-> [!IMPORTANT]  
-> hyper-confirm is no longer in active maintenance, so it is not recommended to be used and unlikely to work with the latest versions of Hyper. I am not aware of a replacement plugin, but will happily add a link here if someone wants to send one my way.
+![build](https://github.com/j0j1j2/hyper-confirm/workflows/Node.js%20CI/badge.svg) [![npm](https://img.shields.io/npm/v/hyper-confirm2.svg)](https://www.npmjs.com/package/hyper-confirm2) [![npm](https://img.shields.io/npm/dt/hyper-confirm2.svg)](https://www.npmjs.com/package/hyper-confirm2) [![npm](https://img.shields.io/npm/l/hyper-confirm2.svg)](https://www.npmjs.com/package/hyper-confirm2)
 
-![build](https://github.com/zachflower/hyper-confirm/workflows/Node.js%20CI/badge.svg) [![npm](https://img.shields.io/npm/v/hyper-confirm.svg)](https://www.npmjs.com/package/hyper-confirm) [![npm](https://img.shields.io/npm/dt/hyper-confirm.svg)](https://www.npmjs.com/package/hyper-confirm) [![npm](https://img.shields.io/npm/l/hyper-confirm.svg)](https://www.npmjs.com/package/hyper-confirm)
-
-# hyper-confirm
+# hyper-confirm2
 
 `hyper-confirm` is a plugin for [Hyper](https://hyper.is/) (formerly HyperTerm) that shows a confirmation dialog before quitting Hyper. This functionality, which is found in other terminal emulators like [iTerm2](https://www.iterm2.com/), provides a safety net against accidentally quitting Hyper (a common problem outlined in [Hyper Issue #399](https://github.com/zeit/hyper/issues/399)).
 
@@ -16,7 +13,7 @@
 To install `hyper-confirm` via `hpm` (recommended), run the following command in your terminal:
 
 ```
-hpm install hyper-confirm
+hpm install hyper-confirm2
 ```
 
 ### Manually
@@ -26,7 +23,7 @@ If you don't use `hpm`, add `hyper-confirm` to the `plugins` array in your Hyper
 ```javascript
   plugins: [
     ...
-    'hyper-confirm'
+    'hyper-confirm2'
   ]
 ```
 
